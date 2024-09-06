@@ -6,6 +6,7 @@
 ### Descriere:
 
 * Scurtă descriere a funcționalității temei
+
 Programul meu creeaza un vector de num_lists liste fiecare de dimensiune
 2^3 * 2^i unde i este de la 0 la num_lists - 1. In fiecare nod retin
 adresa de inceput a unui bloc. Apoi in cadrul functiei malloc caut daca
